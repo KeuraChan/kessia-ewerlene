@@ -1,0 +1,37 @@
+
+
+    h5, h6, p {
+        font-family: "Playwrite RO", cursive;
+        font-optical-sizing: auto;
+        font-style: normal;
+        z-index: 10;
+    }
+
+    p{
+        font-family: "Kaushan Script", cursive;
+        font-size: 15px;
+    }
+
+    h6{
+        font-family: "Kaushan Script", cursive;
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    p.date{
+        font-family: Arial, Helvetica, sans-serif;
+        color: rgb(138, 138, 138);
+        font-weight: bold;
+    }
+    .card{
+        font-weight: bolder!important;
+        padding: 10px!important;
+        width: 90px!important;
+        height: 90px!important;
+        background-color: rgba(0, 0, 0, 0.74)!important;
+        color: aliceblue!important;
+        margin: 5px auto;
+        margin-right: 5px;
+    }
+    img{
+        z-index: 10;
+    }
